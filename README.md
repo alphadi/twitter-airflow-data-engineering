@@ -1,2 +1,2 @@
 # twitter-airflow-data-engineering
-Here's my Twitter project using Airflow
+In this project we extract dataset of Elon Musk's tweets and run an ETL pipeline on Airflow
